@@ -5,3 +5,4 @@ Here is an edit that is going to a new branch.
 L4 edit merged, this is a new edit that will not be merged.
 L5 not yet merged, this is a new edit that will be merged.
 Those edits are gone, as the merge was from master into the branch. Try again.
+A second in the centaur branch, which will put this branch two commits ahead of master.
